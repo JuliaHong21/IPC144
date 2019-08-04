@@ -1,3 +1,2 @@
 # IPC144
-Introduction to Programming Using C
-Lab(Workshop) and Final Project(Mildstone)
+Introduction to Programming Using C / Lab(Workshop) and Final Project(Mildstone)
